@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Passengers>
+		<Passenger FullName="Иванов Иван Иванович">
+			<Type>Работник</Type>
+			<Birthdate>1985-02-15</Birthdate>
+			<TicketNumber>1234567890</TicketNumber>
+			<DepartureDate>2023-05-01</DepartureDate>
+		</Passenger>
+		<Passenger FullName="Петров Петр Петрович">
+			<Type>Капитан</Type>
+			<Birthdate>1978-09-21</Birthdate>
+			<TicketNumber>0987654321</TicketNumber>
+			<DepartureDate>2023-05-05</DepartureDate>
+		</Passenger>
+		<Passenger FullName="Сидорова Елена Николаевна">
+			<Type>Отдыхающий</Type>
+			<Birthdate>1990-06-10</Birthdate>
+			<TicketNumber>1357924680</TicketNumber>
+			<DepartureDate>2023-05-10</DepartureDate>
+		</Passenger>
+		<Passenger FullName="Козлова Анастасия Ивановна">
+			<Type>Работник</Type>
+			<Birthdate>1989-12-18</Birthdate>
+			<TicketNumber>2468013579</TicketNumber>
+			<DepartureDate>2023-05-15</DepartureDate>
+		</Passenger>
+		<Passenger FullName="Смирнов Сергей Петрович">
+			<Type>Отдыхающий</Type>
+			<Birthdate>1983-11-05</Birthdate>
+			<TicketNumber>3141592653</TicketNumber>
+			<DepartureDate>2023-05-20</DepartureDate>
+		</Passenger>
+		<Passenger FullName="Антонов Андрей Александрович">
+			<Type>Работник</Type>
+			<Birthdate>1995-04-02</Birthdate>
+			<TicketNumber>2718281828</TicketNumber>
+			<DepartureDate>2023-05-25</DepartureDate>
+		</Passenger>
+		<Passenger FullName="Михайлова Екатерина Владимировна">
+			<Type>Капитан</Type>
+			<Birthdate>1980-07-30</Birthdate>
+			<TicketNumber>9876543210</TicketNumber>
+			<DepartureDate>2023-06-01</DepartureDate>
+		</Passenger>
+		<Passenger FullName="Константинов Константин Константинович">
+			<Type>Отдыхающий</Type>
+			<Birthdate>1987-12-25</Birthdate>
+			<TicketNumber>2468101214</TicketNumber>
+			<DepartureDate>2023-06-05</DepartureDate>
+		</Passenger>
+</Passengers>

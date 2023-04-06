@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Fleet>
+	<Ship>
+		<Name>Адмирал Нахимов</Name>
+		<Type>Военный</Type>
+		<YearBuilt>1986</YearBuilt>
+		<Speed>32.5</Speed>
+		<CrewCount>530</CrewCount>
+	</Ship>
+	<Ship>
+		<Name>Сочи</Name>
+		<Type>Пассажирский</Type>
+		<YearBuilt>2013</YearBuilt>
+		<Speed>21.5</Speed>
+		<CrewCount>170</CrewCount>
+	</Ship>
+	<Ship>
+		<Name>Алые паруса</Name>
+		<Type>Пассажирский</Type>
+		<YearBuilt>1987</YearBuilt>
+		<Speed>15.5</Speed>
+		<CrewCount>120</CrewCount>
+	</Ship>
+	<Ship>
+		<Name>Владимир Мономах</Name>
+		<Type>Военный</Type>
+		<YearBuilt>2014</YearBuilt>
+		<Speed>29.5</Speed>
+		<CrewCount>490</CrewCount>
+	</Ship>
+	<Ship>
+		<Name>Самохвалов</Name>
+		<Type>Грузовой</Type>
+		<YearBuilt>1976</YearBuilt>
+		<Speed>12.5</Speed>
+		<CrewCount>85</CrewCount>
+	</Ship>
+</Fleet>
